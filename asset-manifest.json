@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Sam-baroque/static/css/main.737421e2.chunk.css",
+    "main.js": "/Sam-baroque/static/js/main.55d6bc21.chunk.js",
+    "main.js.map": "/Sam-baroque/static/js/main.55d6bc21.chunk.js.map",
+    "runtime-main.js": "/Sam-baroque/static/js/runtime-main.809af40f.js",
+    "runtime-main.js.map": "/Sam-baroque/static/js/runtime-main.809af40f.js.map",
+    "static/js/2.df500c97.chunk.js": "/Sam-baroque/static/js/2.df500c97.chunk.js",
+    "static/js/2.df500c97.chunk.js.map": "/Sam-baroque/static/js/2.df500c97.chunk.js.map",
+    "static/js/3.cb085e9a.chunk.js": "/Sam-baroque/static/js/3.cb085e9a.chunk.js",
+    "static/js/3.cb085e9a.chunk.js.map": "/Sam-baroque/static/js/3.cb085e9a.chunk.js.map",
+    "index.html": "/Sam-baroque/index.html",
+    "static/css/main.737421e2.chunk.css.map": "/Sam-baroque/static/css/main.737421e2.chunk.css.map",
+    "static/js/2.df500c97.chunk.js.LICENSE.txt": "/Sam-baroque/static/js/2.df500c97.chunk.js.LICENSE.txt",
+    "static/media/1.b9ead7dd.jpg": "/Sam-baroque/static/media/1.b9ead7dd.jpg",
+    "static/media/2.b0554c71.jpg": "/Sam-baroque/static/media/2.b0554c71.jpg",
+    "static/media/3.2a90200f.jpg": "/Sam-baroque/static/media/3.2a90200f.jpg",
+    "static/media/4.08a3b85f.jpg": "/Sam-baroque/static/media/4.08a3b85f.jpg",
+    "static/media/5.faf8079e.jpg": "/Sam-baroque/static/media/5.faf8079e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.809af40f.js",
+    "static/js/2.df500c97.chunk.js",
+    "static/css/main.737421e2.chunk.css",
+    "static/js/main.55d6bc21.chunk.js"
+  ]
+}
